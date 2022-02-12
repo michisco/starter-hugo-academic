@@ -15,18 +15,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: github-square
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/michisco
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://www.unipi.it/
 education:
   courses:
     - course: MSc in Artificial Intelligence [Currently]
