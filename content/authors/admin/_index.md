@@ -10,6 +10,8 @@ interests:
   - Machine Learning
   - AR/VR
   - Computer Vision
+  - Computational Healthcare
+  - 3D Geometric Processing.
 social:
   - icon: envelope
     icon_pack: fas
