@@ -14,7 +14,7 @@ interests:
   - 3D Geometric Processing
 social:
   - icon: square-envelope
-    icon_pack: fas
+    icon_pack: fab
     link: /#contact
   - icon: github-square
     icon_pack: fab
