@@ -2,12 +2,14 @@
 title: Michele Morisco
 role: MSc in Artificial Intelligence | Lead Programmer and Game Designer at
   GlaringBit games
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My academic interests include Deep Learning, Machine Learning,
+  Computational Healthcare and 3D geometric processing.
 interests:
   - Artificial Intelligence
   - Game Development
-  - Machine
+  - Machine Learning
+  - AR/VR
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I'm a student of the MSc course in Artificial intelligence at the University of Pisa. In parallel, I'm working as **Lead Programmer** and **Game Designer** at an indie game studio, **GlaringBit games**. My academic interests include Deep Learning, Machine Learning, Computational Healthcare and 3D geometric processing. In addition, I'm interested in Robotics and AR/VR development.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I keep myself updated by playing video games about new technologies and by constantly researching new ideas. Besides, I like traveling and discovering new places.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
