@@ -11,20 +11,17 @@ interests:
   - AR/VR
   - Computer Vision
   - Computational Healthcare
-  - 3D Geometric Processing.
+  - 3D Geometric Processing
 social:
-  - icon: envelope
+  - icon: square-envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: github-square
     icon_pack: fab
     link: https://github.com/michisco
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/michele-morisco-6b354919a/
 organizations:
   - name: University of Pisa
     url: https://www.unipi.it/
