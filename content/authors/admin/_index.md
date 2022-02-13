@@ -34,9 +34,6 @@ education:
     - course: BSc in Computer Science
       institution: University of Pisa
       year: 2020
-    - course: Secondary School Diploma in IT
-      institution: Istituto Superiore Fossati-Da Passano, La Spezia
-      year: 2013
 email: ""
 superuser: true
 highlight_name: true
