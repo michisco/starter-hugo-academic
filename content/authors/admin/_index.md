@@ -13,8 +13,8 @@ interests:
   - Computational Healthcare
   - 3D Geometric Processing
 social:
-  - icon: square-envelope
-    icon_pack: fab
+  - icon: envelope
+    icon_pack: fas
     link: /#contact
   - icon: github-square
     icon_pack: fab
@@ -22,6 +22,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michele-morisco-6b354919a/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: itch-io
+    link: https://michisco.itch.io/
+  - display:
+      header: false
+    icon_pack: fas
+    icon: browser
+    link: https://glaringbit-games.itch.io/
 organizations:
   - name: University of Pisa
     url: https://www.unipi.it/
