@@ -20,7 +20,7 @@ links:
 image:
   filename: clustering.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 The project consists of data analysis based on the use of data mining tools.
 
