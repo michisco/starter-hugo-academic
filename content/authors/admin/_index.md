@@ -29,7 +29,7 @@ social:
     link: https://michisco.itch.io/
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: far
     icon: browser
     link: https://glaringbit-games.itch.io/
 organizations:
