@@ -51,4 +51,6 @@ I'm a student of the MSc course in Artificial intelligence at the University of 
 
 In my free time, I keep myself updated by playing video games about new technologies and by constantly researching new ideas. Besides, I like traveling and discovering new places.
 
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
