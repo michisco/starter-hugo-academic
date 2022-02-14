@@ -15,6 +15,8 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://pokebustersproject.herokuapp.com/
+    name: Play
 image:
   filename: pokebustertitle.png
   focal_point: Smart
