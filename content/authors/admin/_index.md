@@ -29,8 +29,8 @@ social:
     link: https://michisco.itch.io/
   - display:
       header: false
-    icon_pack: far
-    icon: browser
+    icon_pack: fab
+    icon: itch-io
     link: https://glaringbit-games.itch.io/
 organizations:
   - name: University of Pisa
