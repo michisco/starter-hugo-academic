@@ -17,6 +17,8 @@ links:
     icon: github
   - url: https://pokebustersproject.herokuapp.com/
     name: Play
+    icon_pack: fas
+    icon: joystick
 image:
   filename: pokebustertitle.png
   focal_point: Smart
