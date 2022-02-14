@@ -12,6 +12,7 @@ interests:
   - Computer Vision
   - Computational Healthcare
   - 3D Geometric Processing
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
