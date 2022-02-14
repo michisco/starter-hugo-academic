@@ -9,7 +9,6 @@ tags:
   - Data Mining
   - ML
   - "2022"
-  - ""
 links:
   - url: https://github.com/michisco/DataMining_21-22/blob/main/DM_Report_16.pdf
     name: PDF
