@@ -17,7 +17,7 @@ links:
     name: Code
     icon: github
 image:
-  filename: clustering.png
+  filename: ""
   focal_point: Smart
   preview_only: true
 ---
