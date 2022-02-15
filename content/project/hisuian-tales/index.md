@@ -25,7 +25,7 @@ image:
 The game has 3 levels and a boss battle. Each level contains different puzzles and enemies to defeat using Smeargle's tail.
 Signs are designed to recall original Pokèmon moves, use the right one to progress in the levels.
 
-Team members:
+**Team members:**
 
 * Giada Belcastro (2D Artist & Concept Artist)
 * Michele Morisco (Programmer & Game/Level Designer)
