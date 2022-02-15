@@ -11,12 +11,18 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: 2022
+      tag: 2022
+    - name: 2021
+      tag: 2021
+    - name: Previous
+      tag: ["2020", "2019"]
+    - name: ML
+      tag: ML
+    - name: Game Development
+      tag: Game Development
 design:
   columns: "2"
-  view: 2
+  view: 3
   flip_alt_rows: false
 ---
