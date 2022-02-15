@@ -1,5 +1,5 @@
 ---
-title: Data Mining project
+title: Data Mining Project
 subtitle: ""
 date: 2022-02-14T17:45:52.078Z
 summary: Using data mining tools for data analysis on tennis matches and player stats.
