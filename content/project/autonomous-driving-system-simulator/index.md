@@ -1,6 +1,7 @@
 ---
 title: Autonomous Driving System Simulator
 date: 2022-02-15T09:41:31.304Z
+summary: Development of a smart application in the field of autonomous driving.
 draft: false
 featured: false
 links:
