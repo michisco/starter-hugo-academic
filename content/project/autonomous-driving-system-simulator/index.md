@@ -13,7 +13,7 @@ links:
     icon_pack: null
     name: PDF
 image:
-  filename: featured
+  filename: download.png
   focal_point: Smart
   preview_only: false
 ---
