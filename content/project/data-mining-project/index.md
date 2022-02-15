@@ -22,7 +22,8 @@ links:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
+  caption: Hierarchical Clustering
 ---
 The project consists of data analysis based on the use of data mining tools.
 
