@@ -16,7 +16,7 @@ content:
     - name: 2021
       tag: 2021
     - name: Previous
-      tag: ["2020", "2019"]
+      tag: 2019
     - name: ML
       tag: ML
     - name: Game Development
