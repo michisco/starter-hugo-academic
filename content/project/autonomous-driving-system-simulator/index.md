@@ -5,10 +5,6 @@ summary: Development of a smart application in the field of autonomous driving.
 draft: false
 featured: false
 links:
-  - url: https://github.com/unipi-smartapp-2021/ETEAM-MIRROR-etdv_simulator/tree/develop
-    name: Code
-    icon_pack: fab
-    icon: github
   - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/autonomous-driving-system-simulator/SmartApp_report.pdf
     icon_pack: null
     name: PDF
