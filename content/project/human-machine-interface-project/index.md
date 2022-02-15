@@ -12,7 +12,7 @@ tags:
   - HTML
   - 3D
   - Minigame
-  - "2019"
+  - Old
 links:
   - url: https://github.com/michisco/PokeAR_Project
     name: Code
