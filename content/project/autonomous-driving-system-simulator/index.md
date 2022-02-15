@@ -21,9 +21,7 @@ image:
 ---
 Development of a smart application in the field of autonomous driving. In particular, one has been working on bash scripts and add-ons for CARLA Simulator to improve the QoL of E-Team Squadra Corse, a Formula SAE team of the University of Pisa.
 
-
-
-**What I learned:**
+**Skill acquired:**
 
 * Software design and development
 * Software engineering requirements specification, especially Jackson Problem Analysis
