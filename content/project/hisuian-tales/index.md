@@ -13,8 +13,8 @@ tags:
 links:
   - url: https://glaringbit-games.itch.io/hisuian-tales
     name: Play
-    icon_pack: far
-    icon: gamepad
+    icon_pack: fas
+    icon: play
 image:
   filename: image_2022-02-14_23-24-48.png
   focal_point: Smart
