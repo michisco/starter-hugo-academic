@@ -9,6 +9,9 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/autonomous-driving-system-simulator/SmartApp_report.pdf
+    icon_pack: null
+    name: PDF
 image:
   filename: featured
   focal_point: Smart
