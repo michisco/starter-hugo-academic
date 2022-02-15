@@ -4,6 +4,11 @@ date: 2022-02-15T09:41:31.304Z
 summary: Development of a smart application in the field of autonomous driving.
 draft: false
 featured: false
+tags:
+  - Software Development
+  - Agile
+  - UNIX
+  - "2022"
 links:
   - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/autonomous-driving-system-simulator/SmartApp_report.pdf
     icon_pack: null
