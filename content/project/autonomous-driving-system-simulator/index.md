@@ -11,8 +11,9 @@ tags:
   - "2022"
 links:
   - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/autonomous-driving-system-simulator/SmartApp_report.pdf
-    icon_pack: null
+    icon_pack: far
     name: PDF
+    icon: file-alt
 image:
   filename: download.png
   focal_point: Smart
