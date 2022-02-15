@@ -27,11 +27,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I learned to develop both graphic applications and graphic components. In particular, I learned to:
+Developing both graphic applications and graphic components. 
 
-* program using the WindowsForms framework as an example of a graphical toolkit
-* program graphic components
-* program animation systems
-* programming interactive graphic systems in HTML5 (JavaScript, CSS and DOM)
+**Skills acquired:**
+
+* Program using the WindowsForms framework as an example of a graphical toolkit
+* Program graphic components
+* Program animation systems
+* Programming interactive graphic systems in HTML5 (JavaScript, CSS and DOM)
 * Understand the event management system and event scheduling
 * Manage homogeneous coordinate systems and affine transformations of the view
