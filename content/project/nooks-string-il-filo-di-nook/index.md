@@ -10,7 +10,7 @@ tags:
   - Unity
   - Minigame
   - 2D
-  - Old
+  - "2020"
 links:
   - url: https://michisco.itch.io/nooks-string
     name: Play
