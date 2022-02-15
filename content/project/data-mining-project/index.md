@@ -4,7 +4,7 @@ subtitle: ""
 date: 2022-02-14T17:45:52.078Z
 summary: Using data mining tools for data analysis on tennis matches and player stats.
 draft: false
-featured: false
+featured: true
 tags:
   - Data Mining
   - ML
@@ -20,7 +20,7 @@ links:
     name: Code
     icon: github
 image:
-  filename: ""
+  filename: clustering.png
   focal_point: Smart
   preview_only: true
 ---
