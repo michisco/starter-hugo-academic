@@ -1,5 +1,5 @@
 ---
-title: Human-Machine Interface project
+title: Human-Machine Interface Project
 date: 2022-02-14T18:37:07.608Z
 summary: An AR web game for the BSc course of Human-Machine Interface project.
 draft: false
@@ -7,6 +7,9 @@ featured: false
 tags:
   - IUM
   - Game Development
+  - Javascript
+  - CSS
+  - HTML
   - 3D
   - Minigame
   - "2019"
