@@ -17,7 +17,7 @@ links:
     icon_pack: fas
     icon: play
 image:
-  filename: image_2022-02-14_23-24-48.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
