@@ -13,6 +13,8 @@ tags:
 links:
   - url: https://github.com/michisco/DataMining_21-22/blob/main/DM_Report_16.pdf
     name: PDF
+    icon_pack: far
+    icon: file-lines
   - icon_pack: fab
     url: https://github.com/michisco/DataMining_21-22
     name: Code
