@@ -48,10 +48,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a student of the MSc course in Artificial intelligence at the University of Pisa. In parallel, I'm working as **Lead Programmer** and **Game Designer** at an indie game studio, **GlaringBit games**. My academic interests include Deep Learning, Machine Learning, Computational Healthcare and 3D geometric processing. In addition, I'm interested in Robotics and AR/VR development.
-
-In my free time, I keep myself updated by playing video games about new technologies and by constantly researching new ideas. Besides, I like traveling and discovering new places.
-
-
+Student of the MSc in Artificial Intelligence at the University of Pisa, working as **Lead Programmer** and **Game Designer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
+Computer Vision, Computational Healthcare, 3D geometric processing. Additionally, AR / VR and game development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
