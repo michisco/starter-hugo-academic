@@ -22,7 +22,7 @@ content:
     - name: Game Development
       tag: Game Development
 design:
-  columns: "2"
+  columns: "1"
   view: 3
   flip_alt_rows: false
 ---
