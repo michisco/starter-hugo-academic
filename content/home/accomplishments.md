@@ -13,7 +13,7 @@ item:
   - certificate_url: https://www.edx.org
     date_end: ""
     date_start: 2019-11-1
-    description: Samsung Innovation Camp is a free training course, offered by Samsung in partnership with Randstad, for the growth of young talents. The course is dedicated to students and recent graduates of Italian public universities who want to increase their knowledge and the competitiveness of their professional profile.
+    description: "Samsung Innovation Camp is a free training course, offered by Samsung in partnership with Randstad, for the growth of young talents. The course is dedicated to students and recent graduates of Italian public universities who want to increase their knowledge and the competitiveness of their professional profile."
     organization: Samsung Innovation Camp
     organization_url: https://innovationcamp.it/
     title: Samsung Innovation Camp
