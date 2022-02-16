@@ -10,7 +10,7 @@ abstract: "Today, most artificial intelligence services have to send your data
   capabilities of a Neural Processing Unit."
 location: Pisa
 date: 2019-04-13T13:15:16.075Z
-date_end: 2022-01-01T23:00:00.000Z
+#date_end: 2022-01-01T23:00:00.000Z
 all_day: false
 event: GDG DevFest Pisa 2019
 event_url: https://2019.devfest.gdgpisa.it/schedule/2019-04-13?sessionId=235
