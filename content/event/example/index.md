@@ -22,8 +22,8 @@ publishDate: 2022-02-16T23:29:38.301Z
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  caption: ""
+  focal_point: Smart
   filename: featured.jpg
 url_code: ""
 ---
