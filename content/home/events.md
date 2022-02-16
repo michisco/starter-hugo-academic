@@ -5,7 +5,7 @@ headless: true
 weight: 70
 title: Events
 content:
-  page_type: project
+  page_type: event
   filter_default: 0
   filter_button:
     - name: All
