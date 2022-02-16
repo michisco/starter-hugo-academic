@@ -19,7 +19,10 @@ url_slides: ""
 address: ""
 links: []
 publishDate: 2022-02-16T23:29:38.301Z
-tags: []
+tags:
+  - Game Development
+  - Hackathon
+  - "2019"
 projects: []
 image:
   caption: ""
