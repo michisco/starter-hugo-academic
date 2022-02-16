@@ -4,10 +4,22 @@ widget_id: Events
 headless: true
 weight: 70
 title: Events
-active: false
+content:
+  page_type: project
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: "*"
+    - name: 2022
+      tag: 2022
+    - name: 2021
+      tag: 2021
+    - name: 2020
+      tag: 2020
+    - name: 2019
+      tag: 2019
 design:
   columns: "1"
-  background:
-    text_color_light: false
-    image_darken: ""
+  view: 3
+  flip_alt_rows: false
 ---
