@@ -7,9 +7,9 @@ item:
     date_start: 2021-11-01
     description: The course aims to provide knowledge and skills relevant to the design of computer games, intended for entertainment (videogames), production activities                        (gamification), and artistic expression (video art), with emphasis on the technological aspects more properly related to computer science.
     organization: University of Pisa
-    organization_url: https://didattica.di.unipi.it/offerta-didattica/game-design/
+    organization_url: https://www.unipi.it/
     title: Specialization course in Game Design
-    url: ""
+    url: https://didattica.di.unipi.it/offerta-didattica/game-design/
   - certificate_url: /uploads/Certificates/SamsungIC.png
     date_end: ""
     date_start: 2019-11-01
@@ -17,13 +17,13 @@ item:
     organization: Samsung Innovation Camp
     organization_url: https://innovationcamp.it/
     title: Samsung Innovation Camp
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ""
   - certificate_url: /uploads/Certificates/ecdl.png
     date_end: ""
     date_start: 2011-05-01
     description: ""
     organization: AICA
-    organization_url: https://www.aicanet.it/certificazioni-informatiche
+    organization_url: https://www.aicanet.it/
     title: ECDL (European Computer Driving Licence)
     url: ""
 widget_id: Certificates
