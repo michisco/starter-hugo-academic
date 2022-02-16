@@ -3,6 +3,7 @@ widget: portfolio
 widget_id: Events
 headless: true
 weight: 70
+title: Events
 active: false
 design:
   columns: "1"
