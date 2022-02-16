@@ -4,23 +4,23 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ""
-    date_start: 2021/11/1
-    description: "The course aims to provide knowledge and skills relevant to the design of computer games, intended for entertainment (videogames), production activities (gamification), and artistic expression (video art), with emphasis on the technological aspects more properly related to computer science."
+    date_start: 2021-11-1
+    description: The course aims to provide knowledge and skills relevant to the design of computer games, intended for entertainment (videogames), production activities (gamification), and artistic expression (video art), with emphasis on the technological aspects more properly related to computer science.
     organization: University of Pisa
     organization_url: https://didattica.di.unipi.it/offerta-didattica/game-design/
     title: Specialization course in Game Design
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
-    date_start: 2019/11/1
-    description: "Samsung Innovation Camp is a free training course, offered by Samsung in partnership with Randstad, for the growth of young talents. The course is dedicated to students and recent graduates of Italian public universities who want to increase their knowledge and the competitiveness of their professional profile."
+    date_start: 2019-11-1
+    description: Samsung Innovation Camp is a free training course, offered by Samsung in partnership with Randstad, for the growth of young talents. The course is dedicated to students and recent graduates of Italian public universities who want to increase their knowledge and the competitiveness of their professional profile.
     organization: Samsung Innovation Camp
     organization_url: https://innovationcamp.it/
     title: Samsung Innovation Camp
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: ""
-    date_start: 2011/06/1
+    date_start: 2011-06-1
     description: ""
     organization: AICA
     organization_url: https://www.aicanet.it/certificazioni-informatiche
