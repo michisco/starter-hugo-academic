@@ -4,7 +4,7 @@ abstract: In questa tesi viene analizzato lo stato attuale della ricerca nella
   criticità in ambito mobile e le differenze tra la realtà aumentata e la realtà
   mista.
 slides: ""
-url_pdf: /uploads/BSc Thesis/Thesis_AR.pdf
+url_pdf: Thesis_AR.pdf
 publication_types:
   - "7"
 authors:
