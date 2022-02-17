@@ -5,7 +5,8 @@
 
 title: Michele Morisco # Website name
 baseurl: 'https://michele-morisco.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '<br/> Last update: July 2021
+            <br/> Copyrights © 2022 |  **<a href="#bio">Michele Morisco</a>**  | All Rights Reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
