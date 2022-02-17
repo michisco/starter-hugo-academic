@@ -34,7 +34,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-  alt_text: Example of different ambient light with Google ARCore.
+  alt_text: ""
 date: 2022-02-17T09:41:53.233Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
