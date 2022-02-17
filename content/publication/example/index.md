@@ -4,7 +4,7 @@ abstract: In questa tesi viene analizzato lo stato attuale della ricerca nella
   criticità in ambito mobile e le differenze tra la realtà aumentata e la realtà
   mista.
 slides: ""
-url_pdf: ""
+url_pdf: /uploads/BSc Thesis/Thesis_AR.pdf
 publication_types:
   - "7"
 authors:
@@ -16,7 +16,7 @@ summary: BSc Computer Science thesis about Augmented Reality and critical issues
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: /uploads/BSc Thesis/Thesis_AR.pdf
+url_source: ""
 url_video: ""
 title: "Realtà Aumentata: Analisi delle criticità della realtà aumentata nel
   settore degli smartphone (Italian)"
