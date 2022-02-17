@@ -27,4 +27,6 @@ image:
 summary: BSc Computer Science thesis about Augmented Reality and critical issues
   in the mobile field.
 date: 2020-03-06T09:00:00.000Z
+url_slides: /uploads/BSc Thesis/Thesis_Presentation.pptx
+url_code: ""
 ---
