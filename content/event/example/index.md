@@ -1,7 +1,7 @@
 ---
 abstract: The Global Game Jam® (GGJ) is the world's largest game creation event
   taking place around the globe, typically at physical locations. A "game jam"
-  is essentially a hackathon focused on game development. Theme: Home
+  is essentially a hackathon focused on game development. This theme edition was "Home"
 slides: ""
 url_pdf: ""
 summary: Partecipating in GGJ 20219
