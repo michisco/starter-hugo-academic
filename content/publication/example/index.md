@@ -16,7 +16,7 @@ summary: BSc Computer Science thesis about Augmented Reality and critical issues
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
+url_source: /uploads/BSc Thesis/Thesis_AR.pdf
 url_video: ""
 title: "Realtà Aumentata: Analisi delle criticità della realtà aumentata nel
   settore degli smartphone (Italian)"
@@ -36,7 +36,7 @@ image:
   filename: featured.png
   alt_text: Example of different ambient light with Google ARCore.
 date: 2020-03-06T09:00:00.000Z
-url_slides: ""
+url_slides: /uploads/BSc Thesis/Thesis_Presentation.pptx
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
