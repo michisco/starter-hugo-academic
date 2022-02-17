@@ -14,9 +14,6 @@ interests:
   - 3D Geometric Processing
   - Robotics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github-square
     icon_pack: fab
     link: https://github.com/michisco
