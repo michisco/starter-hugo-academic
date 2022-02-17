@@ -17,7 +17,7 @@ main:
     url: '#events'
     weight: 40
   - name: Papers
-    url: '#papers'
+    url: '#publications'
     weight: 50
 #  - name: Contact
 #    url: '#contact'
