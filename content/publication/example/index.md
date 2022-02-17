@@ -4,7 +4,7 @@ abstract: In questa tesi viene analizzato lo stato attuale della ricerca nella
   criticità in ambito mobile e le differenze tra la realtà aumentata e la realtà
   mista.
 slides: ""
-url_pdf: "static/uploads/BSc Thesis/Thesis_AR.pdf"
+url_pdf: ""
 publication_types:
   - "7"
 authors:
@@ -35,8 +35,8 @@ image:
   preview_only: false
   filename: featured.png
   alt_text: Example of different ambient light with Google ARCore.
-date: 2022-02-17T09:41:53.233Z
-url_slides: "/static/uploads/BSc Thesis/Thesis_Presentation.pptx"
+date: 2020-03-06T09:00:00.000Z
+url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
