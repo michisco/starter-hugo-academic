@@ -9,6 +9,7 @@ abstract: "Today, most artificial intelligence services have to send your data
   you will be able to try all the development tools needed to use all the
   capabilities of a Neural Processing Unit."
 location: Pisa
+summary: Partecipating a workshop at GDG DevFest 2019
 date: 2019-04-13T13:15:16.075Z
 #date_end: 2022-01-01T23:00:00.000Z
 all_day: false
