@@ -10,12 +10,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: 2022
-      tag: 2022
     - name: 2021
       tag: 2021
-    - name: 2020
-      tag: 2020
     - name: 2019
       tag: 2019
 design:
