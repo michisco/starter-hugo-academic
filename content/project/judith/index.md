@@ -1,7 +1,8 @@
 ---
 title: Judith
 date: 2022-02-18T14:20:46.149Z
-summary: Upcoming 2D platform/puzzle game with Metroidvania features.
+summary: "**\\[In development]** Upcoming 2D platform/puzzle game with
+  Metroidvania features.i"
 draft: false
 featured: true
 tags:
@@ -13,9 +14,10 @@ tags:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
-**[In development]**
+**\[In development]**
+
 A girl opens her eyes realizing she is dead. She will have to obtain enough emotions and fill her empty heart to be judged and finally leave this world...or at least this is what she thinks.
 
 **2D platform/puzzle game with Metroidvania features.** 
