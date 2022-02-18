@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 'Glaris'
     location: Italy
-    date_start: '2019-10-31'
+    date_start: '2020-10-31'
     date_end: ''
     description: |2-
         Responsibilities also include:
