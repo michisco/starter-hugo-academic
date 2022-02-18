@@ -11,7 +11,7 @@ tags:
   - Puzzle
   - Metroidvania
 image:
-  filename: image_2022-02-18_15-31-17.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
 ---
