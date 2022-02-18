@@ -27,5 +27,5 @@ Signs are designed to recall original Pokèmon moves, use the right one to progr
 
 **Team members:**
 
-* Giada Belcastro (2D Artist & Concept Artist)
+* [Giada Belcastro](https://lvpuzzle.wixsite.com/giadabelcastro) (2D Artist & Concept Artist)
 * Michele Morisco (Programmer & Game/Level Designer)
