@@ -2,7 +2,7 @@
 widget: featured
 widget_id: Upcoming
 headless: true
-weight: 80
+weight: 50
 title: Upcoming Projects
 subtitle: ""
 content:
