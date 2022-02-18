@@ -25,7 +25,7 @@ experience:
   - title: Lead Programmer & Game Designer
     company: GlaringBit games
     company_url: ''
-    company_logo: ''
+    company_logo: 'Glaris'
     location: Italy
     date_start: '2019-10-31'
     date_end: ''
