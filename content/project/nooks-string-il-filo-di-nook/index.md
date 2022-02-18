@@ -25,5 +25,5 @@ Like Arianna, Tom Nook has to rely on his precious red string to find the way ou
 
 **Team members:**
 
-* [Giada Belcastro](https://lvpuzzle.wixsite.com/giadabelcastro) (2D Artist)
+* [Giada Belcastro](https://www.artstation.com/giadabelcastro) (2D Artist)
 * Michele Morisco (Programmer)
