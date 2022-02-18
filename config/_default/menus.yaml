@@ -10,15 +10,18 @@ main:
   - name: Certificates
     url: '#accomplishments'
     weight: 20
+  - name: Upcoming
+    url: '#featured'
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Events
     url: '#events'
-    weight: 40
+    weight: 50
   - name: Papers
     url: '#publications'
-    weight: 50
+    weight: 60
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
