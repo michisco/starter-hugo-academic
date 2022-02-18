@@ -33,8 +33,6 @@ experience:
         Responsibilities also include:
         
         * Level Designer
-        * Team Coordination
-        * Twitter Social Management
 
 design:
   columns: '2'
