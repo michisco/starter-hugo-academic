@@ -13,10 +13,11 @@ tags:
 image:
   filename: image_2022-02-18_15-31-17.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
+**[In development]**
 A girl opens her eyes realizing she is dead. She will have to obtain enough emotions and fill her empty heart to be judged and finally leave this world...or at least this is what she thinks.
 
-**​2D platform/puzzle game with Metroidvania features.** 
+**2D platform/puzzle game with Metroidvania features.** 
 
 Find Judith's lost memories and gain emotions analyzing each character's real-time routine. Emotions unlock new memories and abilities, useful for exploring areas and defending against enemies. Judith's main power is possessing NPCs and objects to achieve a temporary useful ability.
