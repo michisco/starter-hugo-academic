@@ -42,11 +42,11 @@
   enable = true
 
 [[buttons]]
-  id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
-  title = "Weibo"
+  id = "telegram"
+  url = "https://telegram.me/share/url?url=<URL>&text=<TEXT>"
+  title = "Telegram"
   icon_pack = "fab"
-  icon = "weibo"
+  icon = "telegram"
   enable = true
 
 [[buttons]]
@@ -63,14 +63,6 @@
   title = "Pinterest"
   icon_pack = "fab"
   icon = "pinterest"
-  enable = false
-
-[[buttons]]
-  id = "xing"
-  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
-  title = "Xing"
-  icon_pack = "fab"
-  icon = "xing"
   enable = false
 
 [[buttons]]
