@@ -37,3 +37,4 @@ Developing both graphic applications and graphic components.
 * Programming interactive graphic systems in HTML5 (JavaScript, CSS and DOM)
 * Understand the event management system and event scheduling
 * Manage homogeneous coordinate systems and affine transformations of the view
+* 3D graphics fundamentals
