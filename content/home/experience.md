@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lead Programmer & Game Designer
+  - title: Lead Programmer
     company: GlaringBit games
     company_url: ''
     company_logo: 'Glaris'
@@ -33,6 +33,7 @@ experience:
         Responsibilities also include:
         
         * Level Designer
+        * Game Designer
 
 design:
   columns: '2'
