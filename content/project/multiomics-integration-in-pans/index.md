@@ -1,8 +1,8 @@
 ---
 title: Multiomics integration in PANS
 date: 2022-06-01T21:32:28.341Z
-summary: Integrate metabolomics and proteomics data from PANS. Perform
-  classification of patients based on the two types of data, and extract
+summary: Integrating metabolomics and proteomics data from PANS. Performing
+  classification of patients based on the two types of data, and extracting
   biomarkers that maximize classification performance.
 draft: false
 featured: false
@@ -12,6 +12,10 @@ tags:
   - Python
   - "2022"
 links:
+  - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/multiomics-integration-in-pans/CHL_report.pdf
+    name: PDF
+    icon_pack: far
+    icon: file-alt
   - url: https://github.com/gdacciaro/CHL_PANS_Project
     name: Code
     icon_pack: fab
@@ -21,7 +25,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Integrate metabolomics and proteomics data from PANS. Perform classification of patients based on the two types of data, and extract biomarkers that maximize classification performance.
+Integrating metabolomics and proteomics data from PANS. Performing classification of patients based on the two types of data, and extracting biomarkers that maximize classification performance.
 
 **Skills acquired:** 
 
