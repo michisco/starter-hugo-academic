@@ -29,6 +29,4 @@ Implement the own convolution of a Laplacian of a Gaussian blob (LoG) detector w
 * To implement pattern recognition applications, machine learning, deep learning, and reinforcement learning models using state-of-the-art libraries and tools.
 * To be able to make limited advancements and contributions to the research in the field.
 
-
-
-Assignment of a set of Intelligent System of Pattern Recognition midterms: **1/4**
+Assignment of a set of Intelligent System of Pattern Recognition midterms: **1/3**
