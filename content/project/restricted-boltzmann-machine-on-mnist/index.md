@@ -29,4 +29,4 @@ Implement from scratch an RBM and apply it to MNIST. The RBM should be implement
 * To implement pattern recognition applications, machine learning, deep learning, and reinforcement learning models using state-of-the-art libraries and tools.
 * To be able to make limited advancements and contributions to the research in the field.
 
-Assignment of a set of Intelligent System of Pattern Recognition midterms: **2/4**
+Assignment of a set of Intelligent System of Pattern Recognition midterms: **2/3**
