@@ -31,4 +31,4 @@ Implement the own convolutional neural network and training in it on CIFAR-10.  
 * To implement pattern recognition applications, machine learning, deep learning, and reinforcement learning models using state-of-the-art libraries and tools.
 * To be able to make limited advancements and contributions to the research in the field.
 
-Assignment of a set of Intelligent System of Pattern Recognition midterms: **3/4**
+Assignment of a set of Intelligent System of Pattern Recognition midterms: **3/3**
