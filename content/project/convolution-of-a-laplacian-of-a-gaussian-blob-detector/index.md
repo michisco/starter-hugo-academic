@@ -6,8 +6,8 @@ summary: Implement the own convolution of a Laplacian of a Gaussian blob (LoG)
 draft: false
 featured: false
 tags:
-  - PatternRecognition
-  - ComputerVision
+  - Pattern Recognition
+  - Computer Vision
   - Python
   - "2022"
 links:
