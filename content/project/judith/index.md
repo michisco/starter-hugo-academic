@@ -2,7 +2,7 @@
 title: Judith
 date: 2022-02-18T14:20:46.149Z
 summary: "**\\[In development]** Upcoming 2D platform/puzzle game with
-  Metroidvania features.i"
+  Metroidvania features."
 draft: false
 featured: true
 tags:
