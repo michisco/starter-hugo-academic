@@ -1,7 +1,6 @@
 ---
 title: Michele Morisco
-role: MSc in Artificial Intelligence | Lead Programmer and Game Designer at
-  GlaringBit games
+role: MSc in Artificial Intelligence | Lead Programmer at GlaringBit games
 bio: My academic interests include Deep Learning, Machine Learning,
   Computational Healthcare and 3D geometric processing.
 interests:
@@ -45,7 +44,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Student of the MSc in Artificial Intelligence at the University of Pisa, working as **Lead Programmer** and **Game Designer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
+Student of the MSc in Artificial Intelligence at the University of Pisa, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
 Computer Vision, Computational Healthcare, 3D geometric processing. Additionally, AR / VR and game development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
