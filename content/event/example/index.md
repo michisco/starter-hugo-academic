@@ -4,7 +4,7 @@ abstract: The Global Game Jam® (GGJ) is the world's largest game creation event
   is essentially a hackathon focused on game development. The theme was "Home"
 slides: ""
 url_pdf: ""
-summary: Partecipating in GGJ 20219
+summary: Partecipating in GGJ 2019
 title: Global Game Jam 2019
 location: Adacto - Empoli
 date: 2019-01-25T11:00:00.000Z
