@@ -5,7 +5,7 @@ abstract: >-
   games, content creation, webcomics and webtoon fields.
 
   As members of team GlaringBit games, my associate and I presented the Judith project.
-location: Online
+location: Lucca
 date: 2022-06-30T18:46:42.566Z
 date_end: 2022-08-03T22:00:00.000Z
 all_day: false
