@@ -5,9 +5,10 @@ abstract: >-
   games, content creation, webcomics and webtoon fields.
 
   As members of team GlaringBit games, my associate and I presented the Judith project.
+summary: Partecipating the call for ideas by Comics&Games Factory
 location: Lucca
 date: 2022-06-30T18:46:42.566Z
-date_end: 2022-08-03T22:00:00.000Z
+date_end: 2022-08-04T22:00:00.000Z
 all_day: false
 event: Comics&Games Factory - Call for Ideas
 event_url: https://comicsandgamesfactory.it/
