@@ -7,6 +7,8 @@ draft: false
 featured: true
 tags:
   - Game Development
+  - Unity
+  - C#
   - 2D
   - Platform
   - Puzzle
