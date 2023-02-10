@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - Game Development
+  - Computer Vision
   - C#
   - Unity
   - 3D
