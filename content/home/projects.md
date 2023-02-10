@@ -17,8 +17,8 @@ content:
       tag: 2022
     - name: ML
       tag: ML
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Computer Vision
+      tag: Computer Vision
     - name: Game Development
       tag: Game Development
 design:
