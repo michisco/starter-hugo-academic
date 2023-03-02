@@ -144,6 +144,8 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
+  analytics:
+    microsoft_clarity: 'g2b5oz5hh7'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
