@@ -15,7 +15,7 @@ links:
     icon_pack: fab
     icon: github
     url: https://github.com/michisco/retro_gameDQN
-  - url: Report
+  - url: https://github.com/michisco/retro_gameDQN/blob/main/report.pdf
     name: PDF
     icon_pack: far
     icon: file-alt
