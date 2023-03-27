@@ -7,6 +7,7 @@ featured: false
 tags:
   - 3D
   - C++
+  - QtCreator
   - "2022"
 links:
   - name: Code
