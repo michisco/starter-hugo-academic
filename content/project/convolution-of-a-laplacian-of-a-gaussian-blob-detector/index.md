@@ -9,6 +9,7 @@ tags:
   - Pattern Recognition
   - Computer Vision
   - Python
+  - Colab
   - "2022"
 links:
   - name: Code
