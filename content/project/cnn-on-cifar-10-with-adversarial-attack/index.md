@@ -11,6 +11,8 @@ tags:
   - Computer Vision
   - ML
   - Python
+  - Keras
+  - Colab
   - "2022"
 links:
   - name: Code
