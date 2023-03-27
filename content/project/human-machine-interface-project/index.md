@@ -10,6 +10,8 @@ tags:
   - Javascript
   - CSS
   - HTML
+  - Threejs
+  - Visual Studio
   - 3D
   - Minigame
   - "2019"
