@@ -9,6 +9,8 @@ tags:
   - Deep Learning
   - Reinforcement Learning
   - Python
+  - Pytorch
+  - Kaggle
   - "2023"
 links:
   - name: Code
