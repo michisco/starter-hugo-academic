@@ -9,6 +9,9 @@ tags:
   - ML
   - Computer Vision
   - Python
+  - Keras
+  - scikit-learn
+  - Colab
   - "2022"
 links:
   - name: Code
