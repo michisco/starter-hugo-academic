@@ -10,6 +10,7 @@ tags:
   - ML
   - Bioinformatics
   - Python
+  - scikit-learn
   - "2022"
 links:
   - url: https://github.com/michisco/starter-hugo-academic/blob/master/content/project/multiomics-integration-in-pans/CHL_report.pdf
