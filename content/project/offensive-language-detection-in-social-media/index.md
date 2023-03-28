@@ -9,6 +9,10 @@ tags:
   - NLP
   - Deep Learning
   - Python
+  - Pytorch
+  - scikit-learn
+  - Colab
+  - Kaggle
   - "2022"
 links:
   - url: https://github.com/michisco/OffensEval_HLT
