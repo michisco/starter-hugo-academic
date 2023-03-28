@@ -8,6 +8,7 @@ tags:
   - Parallel
   - FastFlow
   - C++
+  - QtCreator
   - "2023"
 links:
   - name: Code
