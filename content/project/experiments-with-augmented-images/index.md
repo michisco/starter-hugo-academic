@@ -14,7 +14,7 @@ links:
   - url: https://www.youtube.com/playlist?list=PLGiTGv7DpDx_NynEO6hv4wShZ_V3UGsTs
     name: Watch
     icon_pack: fab
-    icon: Youtube
+    icon: youtube
 image:
   filename: featured.jpg
   focal_point: Smart
