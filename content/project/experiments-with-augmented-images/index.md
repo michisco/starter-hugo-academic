@@ -20,4 +20,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I﻿ have tested some ways to use the Augmented Images of Google ARCore. Below, you can see the videos about my experiments.
+I﻿ have tested some ways to use the Augmented Images of Google ARCore. Above, you can see the videos about my experiments.
