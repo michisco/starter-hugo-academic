@@ -8,6 +8,7 @@ abstract: As a web developer, you already know that machine learning can greatly
   without ML expertise. Learn how to create custom solutions and leave with
   exciting ideas to supercharge your web app.
 location: Google I/O 2023
+summary: Partecipating in the workshop at Google I/O 2023
 date: 2023-05-10T22:05:49.441Z
 date_end: 2023-05-10T22:45:00.000Z
 all_day: false
