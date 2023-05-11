@@ -5,7 +5,7 @@ abstract: Learn how to detect over 80 common objects in real-time by using a
   application superpowers. Walk through an end-to-end creation of a smart camera
   in this workshop.
 location: Google I/O 2021
-summary: Partecipating a workshop at Google I/O 2021
+summary: Partecipating in the workshop at Google I/O 2021
 date: 2021-05-20T17:30:00.000Z
 date_end: 2021-05-20T18:30:00.000Z
 all_day: false
