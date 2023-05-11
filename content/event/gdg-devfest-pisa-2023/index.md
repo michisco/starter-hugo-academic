@@ -15,7 +15,7 @@ abstract: >-
 
   - Deploy with CI/CD, a GitHub Actions overview (held by Lorenzo Pieri)
 location: Pisa
-summary: Partecipating at GDG DevFest 2023
+summary: Partecipating in GDG DevFest 2023
 date: 2023-04-01T07:00:00.000Z
 date_end: 2023-04-01T17:00:28.720Z
 all_day: false
