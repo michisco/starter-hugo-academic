@@ -5,7 +5,7 @@ abstract: Google's new toolkit of geospatial tools & services, Geospatial
   in Unity. In this workshop, you'll go through the steps of placing 3D content
   in the real world with Unity's editor and previewing it on your device.
 location: Google I/O 2023
-summary: Partecipating in the workshop at Google I/O 2023
+summary: Participating in the workshop at Google I/O 2023
 date: 2023-05-10T20:30:00.000Z
 date_end: 2023-05-10T21:30:00.000Z
 all_day: false
