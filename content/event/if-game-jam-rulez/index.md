@@ -13,7 +13,7 @@ all_day: false
 event: Internet Festival 2019
 event_url: https://2019.internetfestival.it/-/game-jam-1
 draft: false
-summary: Partecipating in Game Jam at Internet Festival 2019
+summary: Participating in Game Jam at Internet Festival 2019
 publishDate: 2022-02-17T00:08:12.313Z
 featured: false
 tags:
