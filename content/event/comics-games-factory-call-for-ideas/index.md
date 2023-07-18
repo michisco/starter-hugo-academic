@@ -2,10 +2,10 @@
 title: Comics&Games Factory - Call for Ideas
 abstract: >-
   A call for Ideas to conceive an innovative project in the esports, video
-  games, content creation, webcomics and webtoon fields.
+  games, content creation, webcomics, and webtoon fields.
 
   As members of team GlaringBit games, my associate and I presented the Judith project.
-summary: Partecipating in the call for ideas by Comics&Games Factory
+summary: Participating in the call for ideas by Comics&Games Factory
 location: Lucca
 date: 2022-06-30T18:46:42.566Z
 date_end: 2022-08-04T22:00:00.000Z
