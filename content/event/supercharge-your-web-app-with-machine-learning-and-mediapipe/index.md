@@ -2,13 +2,13 @@
 title: Supercharge your web app with machine learning and MediaPipe
 abstract: As a web developer, you already know that machine learning can greatly
   enhance your web applications. But maybe you haven't added those amazing
-  features you've been wanting as you don't have time to learn the deep learning
+  features you've been wanting as you don't have time to learn deep learning
   concepts required to make a good ML solution. Fortunately, you now have
   MediaPipe which can create custom cross-platform ML solutions for common tasks
   without ML expertise. Learn how to create custom solutions and leave with
   exciting ideas to supercharge your web app.
 location: Google I/O 2023
-summary: Partecipating in the workshop at Google I/O 2023
+summary: Participating in the workshop at Google I/O 2023
 date: 2023-05-10T22:05:49.441Z
 date_end: 2023-05-10T22:45:00.000Z
 all_day: false
