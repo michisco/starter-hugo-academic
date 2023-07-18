@@ -1,15 +1,15 @@
 ---
-title: Make your app smarter - Hands on
+title: Make your app smarter - Hands-on
 abstract: "Today, most artificial intelligence services have to send your data
   to the Cloud in order to perform the analysis. With specific chipset
   capabilities, calculations can be done directly on the phone, with less risk
   of data getting leaked or hacked. In this session, I will show you how to use
-  HiAI: a mobile computing platforms that make the developers able to run
-  artificial intelligence algorithms on device. This is an live session where
+  HiAI: a mobile computing platform that make developers able to run
+  artificial intelligence algorithms on devices. This is a live session where
   you will be able to try all the development tools needed to use all the
   capabilities of a Neural Processing Unit."
 location: Pisa
-summary: Partecipating in the workshop at GDG DevFest 2019
+summary: Participating in the workshop at GDG DevFest 2019
 date: 2019-04-13T13:15:16.075Z
 #date_end: 2022-01-01T23:00:00.000Z
 all_day: false
