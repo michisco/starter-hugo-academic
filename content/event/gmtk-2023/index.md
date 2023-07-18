@@ -16,7 +16,7 @@ tags:
   - Hackathon
   - "2023"
 image:
-  filename: fpiexwms.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
