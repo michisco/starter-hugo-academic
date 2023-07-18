@@ -29,6 +29,11 @@ social:
     icon_pack: fab
     icon: itch-io
     link: https://glaringbit-games.itch.io/
+  - display:
+      header: false
+    link: https://www.instagram.com/komomaiku/
+    icon_pack: fab
+    icon: fa-instagram
 organizations:
   - name: University of Pisa
     url: https://www.unipi.it/
