@@ -1,5 +1,6 @@
 ---
-title: GMTK 2023
+title: GMTK Game Jam 2023
+summary: Participating in GMTK Game Jam 2023
 abstract: The GMTK Game Jam is an annual game making marathon, where individuals
   and teams try to make a game that fits a theme, in just 48 hours.
 location: Online
