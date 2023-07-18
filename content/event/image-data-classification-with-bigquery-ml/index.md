@@ -5,7 +5,7 @@ abstract: In this workshop, we will discuss the use case of storing and
   implement a classification model with BigQuery ML to label the poses using
   only SQL constructs and no other form of code.
 location: Google I/O 2023
-summary: Partecipating in the workshop at Google I/O 2023
+summary: Participating in the workshop at Google I/O 2023
 date: 2023-05-10T21:30:08.905Z
 date_end: 2023-05-10T22:00:00.000Z
 all_day: false
