@@ -33,7 +33,7 @@ social:
       header: false
     link: https://www.instagram.com/komomaiku/
     icon_pack: fab
-    icon: fa-instagram
+    icon: instagram
 organizations:
   - name: University of Pisa
     url: https://www.unipi.it/
