@@ -49,7 +49,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Student of the MSc in Artificial Intelligence at the University of Pisa, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
+Final year student of the MSc in Artificial Intelligence at the University of Pisa, working on the thesis with the [Visual Computing Lab of CNR-Pisa](https://www.isti.cnr.it/en/about/people-detail/1056/Michele_Morisco). In addition, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
 Computer Vision, Computational Healthcare, 3D geometric processing. Additionally, AR / VR and game development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mmorisco_withGD.pdf" "newtab" >}}resume{{< /staticref >}}.
