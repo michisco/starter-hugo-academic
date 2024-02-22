@@ -27,3 +27,5 @@ The **3D Geometry Modeling and Processing** exam's project consists of:
 
 * study the cubic stylization proposed in the paper "Cubic stylization" by Hsueh-Ti Derek Liu and Alec Jacobson
 * implement it via the C++ VCG library as a new filter plugin for the 3D mesh processing software MeshLab
+
+This plugin is in the official [MeshLab release](https://github.com/cnr-isti-vclab/meshlab/discussions/1449)
