@@ -9,6 +9,7 @@ date: 2024-05-16T16:57:00.000Z
 date_end: 2024-05-16T16:58:00.000Z
 all_day: false
 event: Google I/O 2024 - Workshop
+summary: Participating in the workshop at Google I/O 2024
 event_url: https://io.google/2024/explore/1001b818-1e47-4fdf-a9bc-df922cfbbe6b/
 publishDate: 2024-05-16T18:57:23.380Z
 draft: false
