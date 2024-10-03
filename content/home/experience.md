@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Programmer
+    company: B.K. - Brain and Knowledge
+    company_url: 'https://www.b-k.it/sito/index.php'
+    company_logo: 'logoBK2'
+    location: Italy
+    date_start: '2024-05-20'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * R&D about XR technologies (VR / AR)
+        * Development about 3D simulations 
   - title: Lead Programmer
     company: GlaringBit games
     company_url: ''
