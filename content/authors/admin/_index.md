@@ -1,6 +1,7 @@
 ---
 title: Michele Morisco
-role: MSc in Artificial Intelligence | Lead Programmer at GlaringBit games
+role: MSc in Artificial Intelligence | Lead Programmer at GlaringBit games |
+  Programmer at B.K. - Brain and Knowledge
 bio: My academic interests include Deep Learning, Machine Learning,
   Computational Healthcare and 3D geometric processing.
 interests:
