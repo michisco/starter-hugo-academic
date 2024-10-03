@@ -36,8 +36,8 @@ social:
     icon_pack: fab
     icon: instagram
 organizations:
-  - name: University of Pisa
-    url: https://www.unipi.it/
+  - name: B.K. - Brain and Knowledge
+    url: https://www.b-k.it/sito/index.php
 education:
   courses:
     - course: MSc in Artificial Intelligence [Currently]
