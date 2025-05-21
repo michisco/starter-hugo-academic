@@ -30,6 +30,11 @@ experience:
     date_start: '2024-05-20'
     date_end: ''
     description: |2-
+        Currently ongoing work projects:
+    
+        * Ancheme (XR: KAT, Valve Index, Meta Quest 3, XReal Air 2 Ultra)
+        * ARgoNautic (AR: XReal Air 2 Ultra, Viture Pro)
+    
         Responsibilities include:
         
         * R&D about XR technologies (VR / AR)
