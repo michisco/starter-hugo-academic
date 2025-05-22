@@ -11,6 +11,7 @@ location: Google I/O 2025
 date: 2025-05-21T21:31:00.000Z
 date_end: 2025-05-21T10:00:00.000Z
 all_day: false
+summary: Participating in the workshop at Google I/O 2025
 event: Google I/O 2025 - Workshop
 event_url: https://io.google/2025/explore/workshop-1
 publishDate: 2025-05-22T21:31:55.818Z
