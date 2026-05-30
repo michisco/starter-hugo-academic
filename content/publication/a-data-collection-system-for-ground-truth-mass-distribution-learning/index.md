@@ -34,4 +34,6 @@ image:
 summary: MSc thesis proposes a system for estimating mass distribution to
   generate high-quality ground-truth data for learning-based applications.
 date: 2026-05-30T15:14:13.545Z
+url_slides: /uploads/MSc Thesis/Thesis_Presentation.pdf
+url_code: ""
 ---
