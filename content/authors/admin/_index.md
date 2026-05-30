@@ -40,9 +40,9 @@ organizations:
     url: https://www.b-k.it/sito/index.php
 education:
   courses:
-    - course: MSc in Artificial Intelligence [Currently]
+    - course: MSc in Artificial Intelligence
       institution: University of Pisa
-      year: ""
+      year: 2026
     - course: BSc in Computer Science
       institution: University of Pisa
       year: 2020
@@ -50,7 +50,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Final year student of the MSc in Artificial Intelligence at the University of Pisa, working on the thesis with the [Visual Computing Lab of CNR-Pisa](https://www.isti.cnr.it/en/about/people-detail/1056/Michele_Morisco). In addition, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning,
-Computer Vision, XR, and game development. Additionally, Computational Healthcare and 3D geometric processing.
+Developer at [BK srl](https://www.b-k.it/sito/index.php) an IT company, working on several XR and AI projects. In addition, in my free time, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning, Computer Vision, XR, and game development. Additionally, Computational Healthcare and 3D geometric processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mmorisco_withGD.pdf" "newtab" >}}resume{{< /staticref >}}.
