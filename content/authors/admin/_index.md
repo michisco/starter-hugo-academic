@@ -50,6 +50,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Developer at [BK srl](https://www.b-k.it/sito/index.php) an IT company, working on several XR and AI projects. In addition, in my free time, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning, Computer Vision, XR, and game development. Additionally, Computational Healthcare and 3D geometric processing.
+Developer at [BK srl](https://www.b-k.it/sito/index.php), working on several XR and AI projects. In addition, in my free time, working as **Lead Programmer** at an indie games studio, GlaringBit games. Strongly interested in Machine Learning, Computer Vision, XR, and game development. Additionally, Computational Healthcare and 3D geometric processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mmorisco_withGD.pdf" "newtab" >}}resume{{< /staticref >}}.
