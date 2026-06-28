@@ -10,12 +10,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: 2025
+      tag: 2025
     - name: 2024
       tag: 2024
     - name: 2023
       tag: 2023
-    - name: 2022
-      tag: 2022
 design:
   columns: "1"
   view: 3
