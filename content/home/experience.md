@@ -33,11 +33,12 @@ experience:
         Currently ongoing work projects:
     
         * Ancheme (XR: KAT, Valve Index, Meta Quest 3, XReal Air 2 Ultra)
-        * ARgoNautic (AR: XReal Air 2 Ultra, Viture Pro)
+        * SeaChatters (CV: OpenCV)
+        * NAAUT (Obstacle Avoidance)
     
         Responsibilities include:
         
-        * R&D about XR technologies (VR / AR)
+        * R&D about XR (VR / AR) and AI/ML technologies
         * Development about 3D simulations 
   - title: Lead Programmer
     company: GlaringBit games
