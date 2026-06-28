@@ -32,7 +32,6 @@ experience:
     description: |2-
         Currently ongoing work projects:
     
-        * Ancheme (XR: KAT, Valve Index, Meta Quest 3, XReal Air 2 Ultra)
         * SeaChatters (CV: OpenCV)
         * NAAUT (Obstacle Avoidance)
     
