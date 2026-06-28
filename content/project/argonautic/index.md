@@ -24,14 +24,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+**B﻿K s.r.l.**
+
 An AR/MR HUD providing real-time data visualization for complex navigational tasks, such as canal transits.
 
-**My role:**
+*My role:*
 
 * Led the research, design, and programming of an AR/MR ecosystem deployed on cutting-edge smart glasses;
 * Created an intuitive, non-obtrusive user interface optimized for spatial computing;
 * Built and configured the data pipeline to connect the AR/MR hardware with the ground control station, ensuring accurate, real-time telemetry visualization.
 
-**T﻿ools:**
+*T﻿ools:*
 
 Unity, Android Studio, XReal Air 2 Ultra, Viture Pro
