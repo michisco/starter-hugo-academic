@@ -13,8 +13,9 @@ tags:
   - Visual Studio Code
   - Professional
   - "2025"
+links: []
 image:
-  filename: feature.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
