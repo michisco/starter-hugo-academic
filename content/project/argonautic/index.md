@@ -18,9 +18,11 @@ tags:
   - "2025"
 links:
   - url: https://www.b-k.it/sito/argonautic.php
-    icon_pack: null
+    icon_pack: fas
+    icon: globe-europe-africa
+    name: Website
 image:
-  filename: feature.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
