@@ -16,7 +16,7 @@ interests:
 social:
   - icon: github-square
     icon_pack: fab
-    link: https://github.com/michisco
+    link: https://github.com/komomaiku
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michele-morisco-6b354919a/
@@ -30,11 +30,6 @@ social:
     icon_pack: fab
     icon: itch-io
     link: https://glaringbit-games.itch.io/
-  - display:
-      header: false
-    link: https://www.instagram.com/komomaiku/
-    icon_pack: fab
-    icon: instagram
 organizations:
   - name: B.K. - Brain and Knowledge
     url: https://www.b-k.it/sito/index.php
